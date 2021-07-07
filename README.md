@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a programmer from Malaysia and had worked on multiple game projects in few years.
+- 👋 Hi, I’m a programmer from Malaysia and had worked on multiple game projects on PC and mobile platforms.
 - 👀 I’m interested in game programmer positions (work from home/remote due to COVID).
 - 🌱 My projects in this profile is to show my current coding skills and styles.
 - ✨ I wish to learn more, and open to all feedbacks to my work show here.
